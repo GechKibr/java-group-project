@@ -44,4 +44,16 @@ Project guidline for bank account managment project
                                
                                
      if (exit)
-         exit from the system (program)     
+         exit from the system (program)
+         
+         
+         
+    ###  tasks in loan (credit)
+       * coustemrs ask loan
+       * bankers replay 
+             aprove 
+            or 
+              reject
+       * track loan repayment
+       * loan status
+                 
