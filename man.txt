@@ -1,7 +1,8 @@
 Project guidline for bank account managment project 
 
-   step1:list options       create new account
-                            log in
+   step1:list options       
+                            create new account
+                            log in (if before registerd)
                             exit
    
    
@@ -51,9 +52,9 @@ Project guidline for bank account managment project
     ###  tasks in loan (credit)
        * coustemrs ask loan
        * bankers replay 
-             aprove 
+               aprove credit
             or 
-              reject
+              reject credit
        * track loan repayment
        * loan status
                  
