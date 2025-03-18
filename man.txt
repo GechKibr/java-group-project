@@ -1,4 +1,4 @@
-hello java project 
+Project guidline for bank account managment project 
 
    step1:list options       create new account
                             log in
