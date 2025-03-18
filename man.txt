@@ -1,1 +1,47 @@
 hello java project 
+
+   step1:list options       create new account
+                            log in
+                            exit
+   
+   
+      if (create new account)
+                register coustemer  (use account data)
+                save in array or vector 
+                accounted registerd sussfully
+                
+                 then 
+                give these options
+                               1-deposit 
+                               2-withdraw 
+                               3-transfer 
+                               4-balance inquary
+                               5-update account 
+                               6-delete accont 
+                               7-view account status
+                               8-loan (credit )
+                               9-exit  
+                
+                             
+      
+      if (log in)
+             1:ask account number
+             2:verify account number 
+                      if (account number incorrect )
+                           ask again 
+                           
+                      if (account number correct )
+                          give these options
+                               1-deposit 
+                               2-withdraw 
+                               3-transfer 
+                               4-balance inquary
+                               5-update account 
+                               6-delete accont 
+                               7-view account status
+                               8-loan (credit )
+                               9-exit     
+                               
+                               
+     if (exit)
+         exit from the system (program)     
