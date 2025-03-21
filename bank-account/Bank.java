@@ -1,6 +1,5 @@
-//packege  bankAccountManagmetn;
+package  oop.bank.account;
      class Bank {
-
       String bankName;
       List<Account> listOfAccounts ;
       List<User> listOfUsers;

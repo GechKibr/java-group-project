@@ -1,4 +1,4 @@
-
+package  oop.bank.account;
 class Account {
 	String accountNumber;
 	String accountType;

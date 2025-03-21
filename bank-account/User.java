@@ -1,7 +1,4 @@
-
-
- 
-
+package  oop.bank.account;
 class user {
 int userId;
 String name;

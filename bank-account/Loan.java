@@ -1,4 +1,4 @@
-
+package  oop.bank.account;
 class Loan {
 
     int loanId;

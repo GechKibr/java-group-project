@@ -1,4 +1,4 @@
-
+package  oop.bank.account;
      class Notification{
 
       User userId;
